@@ -4,6 +4,7 @@ A collection of snippets that get the phase of the moon, currently, the implemen
 
 Systems Level Languages:
 * C/C++
+* Crystal
 * Rust
 * Zig
 
